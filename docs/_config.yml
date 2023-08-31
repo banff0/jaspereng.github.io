@@ -21,7 +21,7 @@
 title: Jasper Eng's Website
 email: jleng1@ualberta.ca
 author: Jasper Eng
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- # the ">-" symbol will ignore newlines until 
   This site is a site that documents all my projects.
 baseurl: "/jaspereng.github.io" # the subpath of your site, e.g. /blog
 url: "http://banff0.github.io" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,7 @@ github_username:  banff0
 
 
 # Build settings
-theme: minima
+# theme: minima
 plugins:
   - jekyll-feed
 
