@@ -4,5 +4,5 @@
 
 layout: home
 title: "Home page"
-permalink: /home
+permalink: /
 ---
